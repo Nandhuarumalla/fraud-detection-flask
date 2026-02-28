@@ -129,7 +129,7 @@ Key dependencies listed in `requirements.txt`:
 
 ## Deployment
 
-### Deploy to Heroku
+### Deploy to Render
 
 1. Ensure `Procfile.txt` is configured correctly
 2. Initialize git repository (if not already done):
