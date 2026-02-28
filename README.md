@@ -136,11 +136,8 @@ Key dependencies listed in `requirements.txt`:
    ```bash
    git init
    ```
-3. Deploy using Heroku CLI:
-   ```bash
-   heroku create your-app-name
-   git push heroku main
-   ```
+3. Deploy using Render
+  
 
 ## How It Works
 
