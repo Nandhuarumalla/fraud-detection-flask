@@ -1,15 +1,15 @@
 
 # fraud-detection-flask
 ## Team Information
-** Team ID ** :  LTVIP2026TMIDS65699
+**Team ID: LTVIP2026TMIDS65699**
 
-Team Lead: Alluri Mounika - Model Development
+**Team Lead:** Alluri Mounika – Model Development  
 
-Team Members:
+Arumalla Nandini – Data Preprocessing & Feature Engineering  
 
-Arumalla Nandini – Data Preprocessing & Feature Engineering
-Rekha Sri Boyina – Model Training & Evaluation
-Gaddam Sravani Thriveditha – Testing, Deployment & Documentation
+Rekha Sri Boyina – Model Training & Evaluation  
+
+Gaddam Sravani Thriveditha – Testing, Deployment & Documentation  
 ## Project Summary
 The Online Payments Fraud Detection System is a machine learning based web application developed to detect fraudulent online payment transactions using the XGBoost algorithm. The system analyzes transaction details such as transaction type, amount, sender balance, and receiver balance to classify transactions as legitimate or fraudulent.
 
